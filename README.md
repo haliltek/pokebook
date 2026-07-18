@@ -2,9 +2,7 @@
 
 Bu proje, popüler **PokeAPI** servisini kullanarak Pokémon bilgilerini listeleyen, filtreleyen ve detaylarını gösteren modern ve dinamik bir web uygulamasıdır. Proje tamamen Türkçe'ye yerelleştirilmiş ve Dockerize edilmiştir.
 
-### 🌐 Canlı Önizleme
-Uygulamanın sunucu üzerinde aktif olarak çalışan canlı sürümüne aşağıdaki adresten ulaşabilirsiniz:
-👉 **[https://pokebook.halil.tech](https://pokebook.halil.tech)**
+
 
 ## Özellikler 🌟
 
